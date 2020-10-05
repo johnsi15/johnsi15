@@ -2,6 +2,7 @@
 
 
 - 👨‍💻 Working with **JavaScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
+- ✍ I write articles about web development in [johnserrano.co](https://johnserrano.co/).
 - 🌱   I'm currently learning about Web Optimization and React Native.
 - 📫   Reach me on [Instagram](https://instagram.com/jandrey15) and [Twitter](https://twitter.com/jandrey15).
 - 📺  Fun fact: I love to watch movies and series.
