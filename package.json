@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/johnsi15/johnsi15.git"
   },
-  "keywords": ["readme", "github profile"],
+  "keywords": [
+    "readme",
+    "github profile"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
