@@ -10,11 +10,11 @@
 
 
 #### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
-- [Introducción a React Context con los Hooks de React](https://johnserrano.co/introduccion-a-react-context-con-los-hooks-de-react/)
-- [Fundamentos de Programación con JavaScript mi primer Ebook](https://johnserrano.co/fundamentos-de-programacion-con-javascript-mi-primer-ebook/)
-- [Aprende a crear rutas con React Router](https://johnserrano.co/aprende-a-crear-rutas-con-react-router/)
-- [Crea un sitio web con GatsbyJS y React - Introducción](https://johnserrano.co/crea-un-sitio-web-con-gatsbyjs-y-react-introduccion/)
-- [Introducción a los Hooks de React](https://johnserrano.co/introduccion-a-los-hooks-de-react/)
+- [Introducción a React Context con los Hooks de React](https://johnserrano.co/blog/introduccion-a-react-context-con-los-hooks-de-react/)
+- [Fundamentos de Programación con JavaScript mi primer Ebook](https://johnserrano.co/blog/fundamentos-de-programacion-con-javascript-mi-primer-ebook/)
+- [Aprende a crear rutas con React Router](https://johnserrano.co/blog/aprende-a-crear-rutas-con-react-router/)
+- [Crea un sitio web con GatsbyJS y React - Introducción](https://johnserrano.co/blog/crea-un-sitio-web-con-gatsbyjs-y-react-introduccion/)
+- [Introducción a los Hooks de React](https://johnserrano.co/blog/introduccion-a-los-hooks-de-react/)
 
 <!--
 **johnsi15/johnsi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

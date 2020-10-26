@@ -21,7 +21,13 @@ const getLatestArticlesFromBlog = () =>
   // create latest articles markdown
   const latestArticlesMarkdown = articles
     .slice(0, 5)
-    .map(({ title, link }) => `- [${title}](${link.replace('admin.', '')})`)
+    .map(
+      ({ title, link }) =>
+        `- [${title}](${link.replace(
+          'https://admin.johnserrano.co/',
+          'https://johnserrano.co/blog/'
+        )})`
+    )
     .join('\n')
 
   // replace all placeholders with info
