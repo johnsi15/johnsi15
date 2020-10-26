@@ -29,8 +29,7 @@ jobs:
       #   INSTAGRAM_TOKEN: ${{ secrets.INSTAGRAM_TOKEN }}
       #   YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
     - run: |
-        git config user.name John Serrano
-        git config user.email andrey_201015@hotmail.com
-        git add README.md
-        git diff --quiet && git diff --staged --quiet || git commit -am "[bot] Update README with latest info"
+        git config user.name 'John Serrano'
+        git config user.email 'johnsi15@users.noreply.github.com'
+        git commit -am "[bot] Update README with latest info"
         git push origin master
