@@ -1,0 +1,20 @@
+{
+  "name": "johnsi15",
+  "version": "1.0.0",
+  "description": "John Serrano README GitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "update-readme": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnsi15/johnsi15.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnsi15/johnsi15/issues"
+  },
+  "homepage": "https://github.com/johnsi15/johnsi15#readme"
+}
