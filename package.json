@@ -3,18 +3,22 @@
   "version": "1.0.0",
   "description": "John Serrano README GitHub profile",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "update-readme": ""
+    "update-readme": "node src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnsi15/johnsi15.git"
   },
-  "keywords": [],
+  "keywords": ["readme", "github profile"],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/johnsi15/johnsi15/issues"
   },
-  "homepage": "https://github.com/johnsi15/johnsi15#readme"
+  "homepage": "https://github.com/johnsi15/johnsi15#readme",
+  "dependencies": {
+    "rss-parser": "^3.9.0"
+  }
 }
