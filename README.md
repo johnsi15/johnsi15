@@ -16,6 +16,8 @@
 - [Crea un sitio web con GatsbyJS y React - Introducción](https://johnserrano.co/blog/crea-un-sitio-web-con-gatsbyjs-y-react-introduccion/)
 - [Introducción a los Hooks de React](https://johnserrano.co/blog/introduccion-a-los-hooks-de-react/)
 
+> Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí. Juan 14:6
+
 <!--
 **johnsi15/johnsi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
