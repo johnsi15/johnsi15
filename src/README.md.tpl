@@ -12,6 +12,8 @@
 #### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
 %{{latest_articles}}%
 
+> Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí. Juan 14:6
+
 <!--
 **johnsi15/johnsi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
