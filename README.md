@@ -1,19 +1,19 @@
 ### Hi, I'm John Serrano 👋
 
-![Portada](https://github.com/johnsi15/johnsi15/blob/master/img/portada.jpg?raw=true)
+![Portada](https://github.com/johnsi15/johnsi15/blob/master/img/portada-john-serrano.png?raw=true)
 
-- 👨‍💻 Working with **JavaScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
+- 👨‍💻 Working with **JavaScript, TypeScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
 - ✍ I write articles about web development in [johnserrano.co](https://johnserrano.co/).
-- 🌱   I'm currently learning about Web Optimization and React Native.
-- 📫   Reach me on [Instagram](https://instagram.com/jandrey15) and [Twitter](https://twitter.com/jandrey15).
+- 🌱   I'm currently learning about Web Optimization and TypeScript.
+- 📫   Reach me on [Linkedin](linkedin.com/in/jandreys15/) and [Twitter](https://twitter.com/jandrey15).
 - 📺  Fun fact: I love to watch movies and series.
 
 
 #### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
-- [Introducción a React Context con los Hooks de React](https://johnserrano.co/blog/introduccion-a-react-context-con-los-hooks-de-react/)
-- [Fundamentos de Programación con JavaScript mi primer Ebook](https://johnserrano.co/blog/fundamentos-de-programacion-con-javascript-mi-primer-ebook/)
-- [Aprende a crear rutas con React Router](https://johnserrano.co/blog/aprende-a-crear-rutas-con-react-router/)
-- [Crea un sitio web con GatsbyJS y React - Introducción](https://johnserrano.co/blog/crea-un-sitio-web-con-gatsbyjs-y-react-introduccion/)
+- [Mis 3 extensiones favoritas de VS Code que te ayudaran en el desarrollo web](https://johnserrano.co/blog/mis-3-extensiones-favoritas-de-vs-code-que-te-ayudaran-en-el-desarrollo-web)
+- [Aprende a Dominar CSS Line-Clamp para Acortar Textos con Puntos Suspensivos](https://johnserrano.co/blog/aprende-a-dominar-css-line-clamp-para-acortar-textos-con-puntos-suspensivos)
+- [Código Limpio en JavaScript, deuda técnica y refactorización](https://johnserrano.co/blog/codigo-limpio-en-javascript-deuda-tecnica-refactorizacion)
+- [TypeScript desde Cero Descubriendo sus Ventajas y Fundamentos Básicos](https://johnserrano.co/blog/typescript-desde-cero-descubriendo-sus-ventajas-y-fundamentos-basicos)
 - [Introducción a los Hooks de React](https://johnserrano.co/blog/introduccion-a-los-hooks-de-react/)
 
 > Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí. Juan 14:6
