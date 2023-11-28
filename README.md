@@ -5,7 +5,7 @@
 - 👨‍💻 Working with **JavaScript, TypeScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
 - ✍ I write articles about web development in [johnserrano.co](https://johnserrano.co/).
 - 🌱   I'm currently learning about Web Optimization and TypeScript.
-- 📫   Reach me on [Linkedin](linkedin.com/in/jandreys15/) and [Twitter](https://twitter.com/jandrey15).
+- 📫   Reach me on [Linkedin](https://www.linkedin.com/in/jandreys15/) and [Twitter](https://twitter.com/jandrey15).
 - 📺  Fun fact: I love to watch movies and series.
 
 
