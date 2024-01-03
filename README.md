@@ -1,6 +1,6 @@
 ### Hi, I'm John Serrano 👋
 
-![Portada](https://github.com/johnsi15/johnsi15/blob/master/img/portada-john-serrano.png?raw=true)
+![Portada](https://github.com/johnsi15/johnsi15/blob/master/img/portada-john-serrano-2.png?raw=true)
 
 - 👨‍💻 Working with **JavaScript, TypeScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
 - ✍ I write articles about web development in [johnserrano.co](https://johnserrano.co/).
