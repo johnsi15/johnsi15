@@ -10,11 +10,12 @@
 
 
 #### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
+- [ASTRO: Tutorial paso a paso crea tu propia página web fácilmente](https://johnserrano.co/blog/astro-tutorial-paso-a-paso-crea-tu-propia-pagina-web-facilmente)
 - [Mis 3 extensiones favoritas de VS Code que te ayudaran en el desarrollo web](https://johnserrano.co/blog/mis-3-extensiones-favoritas-de-vs-code-que-te-ayudaran-en-el-desarrollo-web)
 - [Aprende a Dominar CSS Line-Clamp para Acortar Textos con Puntos Suspensivos](https://johnserrano.co/blog/aprende-a-dominar-css-line-clamp-para-acortar-textos-con-puntos-suspensivos)
 - [Código Limpio en JavaScript, deuda técnica y refactorización](https://johnserrano.co/blog/codigo-limpio-en-javascript-deuda-tecnica-refactorizacion)
 - [TypeScript desde Cero Descubriendo sus Ventajas y Fundamentos Básicos](https://johnserrano.co/blog/typescript-desde-cero-descubriendo-sus-ventajas-y-fundamentos-basicos)
-- [Introducción a los Hooks de React](https://johnserrano.co/blog/introduccion-a-los-hooks-de-react/)
+
 
 > Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí. Juan 14:6
 
