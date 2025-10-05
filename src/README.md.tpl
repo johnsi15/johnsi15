@@ -1,30 +1,20 @@
 ### Hi, I'm John Serrano 👋
 
-![Portada](https://github.com/johnsi15/johnsi15/blob/master/img/portada.jpg?raw=true)
-
-- 👨‍💻 Working with **JavaScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
+- 👨‍💻 Working with **JavaScript, TypeScript, React.js, Node.js, Docker, MongoDB** and **Firebase**.
 - ✍ I write articles about web development in [johnserrano.co](https://johnserrano.co/).
-- 🌱   I'm currently learning about Web Optimization and React Native.
-- 📫   Reach me on [Instagram](https://instagram.com/jandrey15) and [Twitter](https://twitter.com/jandrey15).
+- 🌱   I'm currently learning about Web Optimization and TypeScript.
+- 📫   Reach me on [Linkedin](https://www.linkedin.com/in/johnserranodev/) [Facebook](https://www.facebook.com/johnserranodev/) [Instagram](https://www.instagram.com/johnserranodev/) and [Twitter o X](https://twitter.com/johnserranodev/).
 - 📺  Fun fact: I love to watch movies and series.
 
 
+#### 📺 Latest YouTube videos:
+%{{latest_youtube}}%
+
 #### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
-%{{latest_articles}}%
+- [Arquitectura en el Frontend: mis problemas con Hexagonal (versión simple con React + TypeScript)](https://johnserrano.co/blog/arquitectura-hexagonal-react-typescript)
+- [ASTRO: Tutorial paso a paso crea tu propia página web fácilmente](https://johnserrano.co/blog/astro-tutorial-paso-a-paso-crea-tu-propia-pagina-web-facilmente)
+- [Mis 3 extensiones favoritas de VS Code que te ayudaran en el desarrollo web](https://johnserrano.co/blog/mis-3-extensiones-favoritas-de-vs-code-que-te-ayudaran-en-el-desarrollo-web)
+- [Aprende a Dominar CSS Line-Clamp para Acortar Textos con Puntos Suspensivos](https://johnserrano.co/blog/aprende-a-dominar-css-line-clamp-para-acortar-textos-con-puntos-suspensivos)
+- [Código Limpio en JavaScript, deuda técnica y refactorización](https://johnserrano.co/blog/codigo-limpio-en-javascript-deuda-tecnica-refactorizacion)
 
 > Jesús le dijo: Yo soy el camino, y la verdad, y la vida; nadie viene al Padre, sino por mí. Juan 14:6
-
-<!--
-**johnsi15/johnsi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
