@@ -5,12 +5,19 @@ import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_CHANNEL_IDS } from './constants.js'
 
 const { YOUTUBE_API_KEY } = process.env
 
+console.log({ YOUTUBE_API_KEY })
+
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_CHANNEL_IDS.MAIN }) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
   )
     .then(res => res.json())
-    .then(videos => videos.items)
+    .then(videos => {
+      if (!videos.items) {
+        throw new Error(`Error fetching YouTube videos: ${JSON.stringify(videos)}`)
+      }
+      return videos.items
+    })
 
 const generateYoutubeHTML = ({ title, videoId }) => {
   // Escapar comillas simples y eliminar saltos de línea en el título
@@ -23,24 +30,25 @@ const generateYoutubeHTML = ({ title, videoId }) => {
 }
 
 ;(async () => {
-  // await getLatestTwitchStream()
+  try {
+    const [template, videos] = await Promise.all([
+      fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
+      getLatestYoutubeVideos(),
+    ])
 
-  const [template, videos] = await Promise.all([
-    fs.readFile('./src/README.md.tpl', { encoding: 'utf-8' }),
-    getLatestYoutubeVideos(),
-  ])
+    const latestYoutubeVideos = videos
+      .map(({ snippet }) => {
+        const { title, resourceId } = snippet
+        const { videoId } = resourceId
+        return generateYoutubeHTML({ videoId, title })
+      })
+      .join('')
 
-  // create latest youtube videos channel
-  const latestYoutubeVideos = videos
-    .map(({ snippet }) => {
-      const { title, resourceId } = snippet
-      const { videoId } = resourceId
-      return generateYoutubeHTML({ videoId, title })
-    })
-    .join('')
+    // replace all placeholders with info
+    const newMarkdown = template.replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
 
-  // replace all placeholders with info
-  const newMarkdown = template.replace(PLACEHOLDERS.LATEST_YOUTUBE, latestYoutubeVideos)
-
-  await fs.writeFile('README.md', newMarkdown)
+    await fs.writeFile('README.md', newMarkdown)
+  } catch (error) {
+    console.error('Error updating README:', error.message)
+  }
 })()

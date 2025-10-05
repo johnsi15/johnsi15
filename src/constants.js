@@ -11,5 +11,5 @@ export const PLACEHOLDERS = Object.freeze({
 })
 
 export const YOUTUBE_CHANNEL_IDS = Object.freeze({
-  MAIN: 'UCycvOkhF14veCixjxn1em4A',
+  MAIN: 'PLxru3eE7DwDAdhJb9XwJK9qx66XkvSeFF',
 })
