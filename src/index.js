@@ -5,8 +5,6 @@ import { PLACEHOLDERS, NUMBER_OF, YOUTUBE_CHANNEL_IDS } from './constants.js'
 
 const { YOUTUBE_API_KEY } = process.env
 
-console.log({ YOUTUBE_API_KEY })
-
 const getLatestYoutubeVideos = ({ channelId } = { channelId: YOUTUBE_CHANNEL_IDS.MAIN }) =>
   fetch(
     `https://www.googleapis.com/youtube/v3/playlistItems?part=snippet&playlistId=${channelId}&maxResults=${NUMBER_OF.VIDEOS}&key=${YOUTUBE_API_KEY}`
