@@ -7,10 +7,10 @@
 - 📺  Fun fact: I love to watch movies and series.
 
 
-#### 📺 Latest YouTube videos:
+### 📺 Latest videos on my [YouTube channel](https://youtube.com/@johnserranodev?sub_confirmation=1):
 %{{latest_youtube}}%
 
-#### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
+### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
 - [Arquitectura en el Frontend: mis problemas con Hexagonal (versión simple con React + TypeScript)](https://johnserrano.co/blog/arquitectura-hexagonal-react-typescript)
 - [ASTRO: Tutorial paso a paso crea tu propia página web fácilmente](https://johnserrano.co/blog/astro-tutorial-paso-a-paso-crea-tu-propia-pagina-web-facilmente)
 - [Mis 3 extensiones favoritas de VS Code que te ayudaran en el desarrollo web](https://johnserrano.co/blog/mis-3-extensiones-favoritas-de-vs-code-que-te-ayudaran-en-el-desarrollo-web)
