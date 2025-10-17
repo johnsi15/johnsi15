@@ -9,14 +9,14 @@
 
 ### 📺 Latest videos on my [YouTube channel](https://youtube.com/@johnserranodev?sub_confirmation=1):
 
+<a href='https://youtu.be/v4TVyKy3SPk' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/v4TVyKy3SPk/mqdefault.jpg' alt='Zod, Chart.js y Zustand: 3 librerías esenciales para tus proyectos con React' />
+</a>
 <a href='https://youtu.be/1TGmclBypOk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/1TGmclBypOk/mqdefault.jpg' alt='Aprende SQL Agregaciones Paso a Paso' />
 </a>
 <a href='https://youtu.be/CPsnfdBqOb8' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/CPsnfdBqOb8/mqdefault.jpg' alt='Aprende SQL Joins Paso a Paso' />
-</a>
-<a href='https://youtu.be/-oBSsyu4bl4' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/-oBSsyu4bl4/mqdefault.jpg' alt='Aprende SQL desde cero en minutos' />
 </a>
 
 ### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
