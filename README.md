@@ -9,14 +9,14 @@
 
 ### 📺 Latest videos on my [YouTube channel](https://youtube.com/@johnserranodev?sub_confirmation=1):
 
+<a href='https://youtu.be/DCp4dqZFLtY' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/DCp4dqZFLtY/mqdefault.jpg' alt='La sorprendente característica de Nextjs 16 que nadie está comentando' />
+</a>
 <a href='https://youtu.be/eUHha5Vgdao' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/eUHha5Vgdao/mqdefault.jpg' alt='Next.js 16 cambió TODO (y no es una exageración)' />
 </a>
 <a href='https://youtu.be/ofQyrz6ujBI' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/ofQyrz6ujBI/mqdefault.jpg' alt='Haz consultas SQL como un PRO hoy mismo' />
-</a>
-<a href='https://youtu.be/v4TVyKy3SPk' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/v4TVyKy3SPk/mqdefault.jpg' alt='Zod, Chart.js y Zustand: 3 librerías esenciales para tus proyectos con React' />
 </a>
 
 ### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
