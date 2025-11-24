@@ -9,14 +9,14 @@
 
 ### 📺 Latest videos on my [YouTube channel](https://youtube.com/@johnserranodev?sub_confirmation=1):
 
+<a href='https://youtu.be/RTgkCnHU04o' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/RTgkCnHU04o/mqdefault.jpg' alt='Next.js 16 + WordPress: Caché Components, Fetching y Conceptos Clave | Parte 1' />
+</a>
 <a href='https://youtu.be/nUNQDW1dGPk' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/nUNQDW1dGPk/mqdefault.jpg' alt='Migré un periódico a Next.js y cometimos un error de $1.000 en AWS (caso real)' />
 </a>
 <a href='https://youtu.be/DCp4dqZFLtY' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/DCp4dqZFLtY/mqdefault.jpg' alt='La sorprendente característica de Nextjs 16 que nadie está comentando' />
-</a>
-<a href='https://youtu.be/eUHha5Vgdao' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/eUHha5Vgdao/mqdefault.jpg' alt='Next.js 16 cambió TODO (y no es una exageración)' />
 </a>
 
 ### ✍ Latest articles I wrote on [johnserrano.co](https://johnserrano.co/):
